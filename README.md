@@ -20,6 +20,7 @@ leetcode 문제풀이 repository 입니다.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Greedy
 |  |
@@ -63,6 +64,7 @@ leetcode 문제풀이 repository 입니다.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0005-longest-palindromic-substring) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,4 +73,8 @@ leetcode 문제풀이 repository 입니다.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
