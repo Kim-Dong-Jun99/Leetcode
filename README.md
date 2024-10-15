@@ -53,6 +53,7 @@ leetcode 문제풀이 repository 입니다.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
