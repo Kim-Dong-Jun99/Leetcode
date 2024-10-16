@@ -12,6 +12,7 @@ leetcode 문제풀이 repository 입니다.
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ leetcode 문제풀이 repository 입니다.
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -68,6 +70,7 @@ leetcode 문제풀이 repository 입니다.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## String
 |  |
 | ------- |
@@ -81,6 +84,7 @@ leetcode 문제풀이 repository 입니다.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Divide and Conquer
 |  |
 | ------- |
