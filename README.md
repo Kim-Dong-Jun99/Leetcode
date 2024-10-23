@@ -11,6 +11,7 @@ leetcode 문제풀이 repository 입니다.
 | [0011-container-with-most-water](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0027-remove-element) |
+| [0055-jump-game](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -47,6 +48,7 @@ leetcode 문제풀이 repository 입니다.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0670-maximum-swap) |
@@ -123,6 +125,7 @@ leetcode 문제풀이 repository 입니다.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Backtracking
