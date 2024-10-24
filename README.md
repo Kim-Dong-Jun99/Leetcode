@@ -19,6 +19,7 @@ leetcode 문제풀이 repository 입니다.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0274-h-index) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -63,6 +64,7 @@ leetcode 문제풀이 repository 입니다.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0274-h-index) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -178,4 +180,8 @@ leetcode 문제풀이 repository 입니다.
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
