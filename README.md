@@ -35,6 +35,7 @@ leetcode 문제풀이 repository 입니다.
 | [0036-valid-sudoku](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0036-valid-sudoku) |
 | [0138-copy-list-with-random-pointer](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0169-majority-element) |
+| [0433-minimum-genetic-mutation](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -118,6 +119,7 @@ leetcode 문제풀이 repository 입니다.
 | [0008-string-to-integer-atoi](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0071-simplify-path](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0125-valid-palindrome) |
+| [0433-minimum-genetic-mutation](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [1197-parsing-a-boolean-expression](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -176,6 +178,7 @@ leetcode 문제풀이 repository 입니다.
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0200-number-of-islands) |
+| [0433-minimum-genetic-mutation](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
