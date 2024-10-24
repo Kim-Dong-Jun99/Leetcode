@@ -32,6 +32,7 @@ leetcode 문제풀이 repository 입니다.
 | [0001-two-sum](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0036-valid-sudoku) |
+| [0138-copy-list-with-random-pointer](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0169-majority-element) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -87,6 +88,7 @@ leetcode 문제풀이 repository 입니다.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0002-add-two-numbers) |
+| [0138-copy-list-with-random-pointer](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 ## Math
 |  |
 | ------- |
