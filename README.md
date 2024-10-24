@@ -43,6 +43,7 @@ leetcode 문제풀이 repository 입니다.
 | [0027-remove-element](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0189-rotate-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -110,6 +111,7 @@ leetcode 문제풀이 repository 입니다.
 | [0005-longest-palindromic-substring](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0125-valid-palindrome](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0125-valid-palindrome) |
 | [1197-parsing-a-boolean-expression](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
