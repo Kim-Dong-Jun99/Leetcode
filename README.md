@@ -50,6 +50,7 @@ leetcode 문제풀이 repository 입니다.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0189-rotate-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -70,6 +71,7 @@ leetcode 문제풀이 repository 입니다.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0274-h-index) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -92,6 +94,7 @@ leetcode 문제풀이 repository 입니다.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0002-add-two-numbers) |
 | [0138-copy-list-with-random-pointer](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0148-sort-list](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -136,6 +139,7 @@ leetcode 문제풀이 repository 입니다.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
@@ -221,4 +225,8 @@ leetcode 문제풀이 repository 입니다.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0200-number-of-islands) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
