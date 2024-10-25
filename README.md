@@ -14,6 +14,7 @@ leetcode 문제풀이 repository 입니다.
 | [0036-valid-sudoku](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -136,6 +137,7 @@ leetcode 문제풀이 repository 입니다.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Divide and Conquer
 |  |
@@ -219,6 +221,7 @@ leetcode 문제풀이 repository 입니다.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0200-number-of-islands) |
 ## Binary Search Tree
 |  |
