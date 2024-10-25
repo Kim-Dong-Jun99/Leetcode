@@ -19,6 +19,7 @@ leetcode 문제풀이 repository 입니다.
 | [0088-merge-sorted-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0198-house-robber) |
@@ -39,6 +40,7 @@ leetcode 문제풀이 repository 입니다.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0036-valid-sudoku) |
 | [0138-copy-list-with-random-pointer](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0169-majority-element) |
 | [0433-minimum-genetic-mutation](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -130,6 +132,7 @@ leetcode 문제풀이 repository 입니다.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0071-simplify-path](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0139-word-break) |
 | [0433-minimum-genetic-mutation](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [1197-parsing-a-boolean-expression](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1304-longest-happy-string) |
@@ -158,6 +161,7 @@ leetcode 문제풀이 repository 입니다.
 | [0055-jump-game](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0198-house-robber) |
 ## Backtracking
 |  |
@@ -244,9 +248,14 @@ leetcode 문제풀이 repository 입니다.
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0139-word-break) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
