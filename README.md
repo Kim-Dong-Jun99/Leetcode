@@ -26,6 +26,7 @@ leetcode 문제풀이 repository 입니다.
 | [0200-number-of-islands](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0274-h-index) |
+| [0300-longest-increasing-subsequence](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0322-coin-change) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -146,6 +147,7 @@ leetcode 문제풀이 repository 입니다.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0300-longest-increasing-subsequence](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Divide and Conquer
 |  |
@@ -164,6 +166,7 @@ leetcode 문제풀이 repository 입니다.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0322-coin-change) |
 ## Backtracking
 |  |
