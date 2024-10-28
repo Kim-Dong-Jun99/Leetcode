@@ -41,6 +41,7 @@ leetcode 문제풀이 repository 입니다.
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Hash Table
@@ -57,6 +58,7 @@ leetcode 문제풀이 repository 입니다.
 | [0433-minimum-genetic-mutation](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Two Pointers
 |  |
@@ -98,6 +100,7 @@ leetcode 문제풀이 repository 입니다.
 | [0274-h-index](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0274-h-index) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Heap (Priority Queue)
@@ -164,6 +167,7 @@ leetcode 문제풀이 repository 입니다.
 | [0004-median-of-two-sorted-arrays](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0300-longest-increasing-subsequence](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Divide and Conquer
 |  |
@@ -189,6 +193,7 @@ leetcode 문제풀이 repository 입니다.
 | [0300-longest-increasing-subsequence](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0322-coin-change) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
