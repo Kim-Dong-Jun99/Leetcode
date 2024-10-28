@@ -55,6 +55,7 @@ leetcode 문제풀이 repository 입니다.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0036-valid-sudoku) |
 | [0138-copy-list-with-random-pointer](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0139-word-break) |
@@ -149,6 +150,7 @@ leetcode 문제풀이 repository 입니다.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## String
@@ -160,6 +162,7 @@ leetcode 문제풀이 repository 입니다.
 | [0008-string-to-integer-atoi](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0068-text-justification](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0071-simplify-path) |
 | [0097-interleaving-string](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0097-interleaving-string) |
