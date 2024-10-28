@@ -13,6 +13,7 @@ leetcode 문제풀이 repository 입니다.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -69,6 +70,7 @@ leetcode 문제풀이 repository 입니다.
 | [0015-3sum](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0125-valid-palindrome) |
@@ -182,6 +184,7 @@ leetcode 문제풀이 repository 입니다.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -217,6 +220,7 @@ leetcode 문제풀이 repository 입니다.
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0071-simplify-path) |
 | [1197-parsing-a-boolean-expression](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Tree
@@ -307,4 +311,8 @@ leetcode 문제풀이 repository 입니다.
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
