@@ -18,6 +18,7 @@ leetcode 문제풀이 repository 입니다.
 | [0055-jump-game](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -157,6 +158,7 @@ leetcode 문제풀이 repository 입니다.
 | [0008-string-to-integer-atoi](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0068-text-justification](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0071-simplify-path) |
 | [0097-interleaving-string](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0125-valid-palindrome) |
@@ -219,6 +221,7 @@ leetcode 문제풀이 repository 입니다.
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0068-text-justification) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Stack
 |  |
