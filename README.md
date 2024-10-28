@@ -37,6 +37,7 @@ leetcode 문제풀이 repository 입니다.
 | [0380-insert-delete-getrandom-o1](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -187,6 +188,7 @@ leetcode 문제풀이 repository 입니다.
 | [0198-house-robber](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0322-coin-change) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Backtracking
 |  |
 | ------- |
@@ -264,6 +266,7 @@ leetcode 문제풀이 repository 입니다.
 | [0064-minimum-path-sum](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0200-number-of-islands) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Binary Search Tree
 |  |
 | ------- |
