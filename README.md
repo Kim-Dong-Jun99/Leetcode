@@ -42,6 +42,7 @@ leetcode 문제풀이 repository 입니다.
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -96,6 +97,7 @@ leetcode 문제풀이 repository 입니다.
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1304-longest-happy-string) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -183,6 +185,7 @@ leetcode 문제풀이 repository 입니다.
 | [0074-search-a-2d-matrix](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Divide and Conquer
@@ -210,6 +213,7 @@ leetcode 문제풀이 repository 입니다.
 | [0300-longest-increasing-subsequence](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0322-coin-change) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Backtracking
