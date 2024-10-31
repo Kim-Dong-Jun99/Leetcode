@@ -168,6 +168,7 @@ leetcode 문제풀이 repository 입니다.
 | [0008-string-to-integer-atoi](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0068-text-justification](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0071-simplify-path) |
@@ -202,6 +203,7 @@ leetcode 문제풀이 repository 입니다.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0055-jump-game) |
@@ -225,6 +227,7 @@ leetcode 문제풀이 repository 입니다.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0022-generate-parentheses) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
