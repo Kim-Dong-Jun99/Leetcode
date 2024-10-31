@@ -34,6 +34,7 @@ leetcode 문제풀이 repository 입니다.
 | [0198-house-robber](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0221-maximal-square](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -212,6 +213,7 @@ leetcode 문제풀이 repository 입니다.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0322-coin-change) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -298,6 +300,7 @@ leetcode 문제풀이 repository 입니다.
 | [0064-minimum-path-sum](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0221-maximal-square) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search Tree
