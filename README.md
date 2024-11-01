@@ -71,6 +71,7 @@ leetcode 문제풀이 repository 입니다.
 | [0139-word-break](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -191,6 +192,7 @@ leetcode 문제풀이 repository 입니다.
 | [0125-valid-palindrome](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0392-is-subsequence) |
 | [0433-minimum-genetic-mutation](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [1197-parsing-a-boolean-expression](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -306,6 +308,7 @@ leetcode 문제풀이 repository 입니다.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0383-ransom-note) |
 ## Depth-First Search
 |  |
 | ------- |
