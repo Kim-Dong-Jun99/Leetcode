@@ -84,6 +84,7 @@ leetcode 문제풀이 repository 입니다.
 | [0015-3sum](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -179,6 +180,7 @@ leetcode 문제풀이 repository 입니다.
 | [0014-longest-common-prefix](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0068-text-justification) |
@@ -372,4 +374,8 @@ leetcode 문제풀이 repository 입니다.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0062-unique-paths) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
