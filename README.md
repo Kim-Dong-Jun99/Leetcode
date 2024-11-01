@@ -176,6 +176,7 @@ leetcode 문제풀이 repository 입니다.
 | [0006-zigzag-conversion](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
@@ -344,6 +345,7 @@ leetcode 문제풀이 repository 입니다.
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0139-word-break) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Quickselect
