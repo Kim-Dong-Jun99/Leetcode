@@ -144,6 +144,7 @@ leetcode 문제풀이 repository 입니다.
 | [0002-add-two-numbers](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0670-maximum-swap](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0670-maximum-swap) |
@@ -211,6 +212,7 @@ leetcode 문제풀이 repository 입니다.
 | [0045-jump-game-ii](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0097-interleaving-string) |
@@ -347,4 +349,8 @@ leetcode 문제풀이 repository 입니다.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0042-trapping-rain-water) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
