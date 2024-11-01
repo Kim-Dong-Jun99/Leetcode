@@ -93,6 +93,7 @@ leetcode 문제풀이 repository 입니다.
 | [0151-reverse-words-in-a-string](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0392-is-subsequence) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
@@ -190,6 +191,7 @@ leetcode 문제풀이 repository 입니다.
 | [0125-valid-palindrome](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0392-is-subsequence) |
 | [0433-minimum-genetic-mutation](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [1197-parsing-a-boolean-expression](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -238,6 +240,7 @@ leetcode 문제풀이 repository 입니다.
 | [0221-maximal-square](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0392-is-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
