@@ -179,6 +179,7 @@ leetcode 문제풀이 repository 입니다.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0058-length-of-last-word](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0072-edit-distance) |
