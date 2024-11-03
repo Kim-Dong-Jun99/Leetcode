@@ -195,6 +195,7 @@ leetcode 문제풀이 repository 입니다.
 | [0383-ransom-note](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0392-is-subsequence) |
 | [0433-minimum-genetic-mutation](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [0812-rotate-string](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0812-rotate-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1304-longest-happy-string) |
@@ -384,4 +385,5 @@ leetcode 문제풀이 repository 입니다.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
