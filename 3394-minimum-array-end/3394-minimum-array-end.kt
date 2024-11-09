@@ -3,7 +3,6 @@ import java.util.*
 class Solution {
     fun minEnd(n: Int, x: Int): Long {
         val binary = Integer.toBinaryString(x)
-        println("${binary}")
         val nb = Integer.toBinaryString(n-1)
         val stack = Stack<Char>()
         var index = nb.lastIndex
