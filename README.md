@@ -260,6 +260,7 @@ leetcode 문제풀이 repository 입니다.
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3394-minimum-array-end](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/3394-minimum-array-end) |
 ## Enumeration
 |  |
 | ------- |
