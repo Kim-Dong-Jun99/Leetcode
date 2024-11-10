@@ -57,6 +57,7 @@ leetcode 문제풀이 repository 입니다.
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -171,6 +172,7 @@ leetcode 문제풀이 repository 입니다.
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## String
 |  |
 | ------- |
@@ -260,6 +262,7 @@ leetcode 문제풀이 repository 입니다.
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/3394-minimum-array-end) |
 ## Enumeration
 |  |
