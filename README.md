@@ -37,6 +37,7 @@ leetcode 문제풀이 repository 입니다.
 | [0189-rotate-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -142,6 +143,7 @@ leetcode 문제풀이 repository 입니다.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Linked List
@@ -173,6 +175,7 @@ leetcode 문제풀이 repository 입니다.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0209-minimum-size-subarray-sum](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -215,6 +218,7 @@ leetcode 문제풀이 repository 입니다.
 | [0004-median-of-two-sorted-arrays](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
