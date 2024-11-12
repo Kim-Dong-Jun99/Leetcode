@@ -51,6 +51,7 @@ leetcode 문제풀이 repository 입니다.
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
@@ -128,6 +129,7 @@ leetcode 문제풀이 repository 입니다.
 | [0215-kth-largest-element-in-an-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0274-h-index) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -223,6 +225,7 @@ leetcode 문제풀이 repository 입니다.
 | [0209-minimum-size-subarray-sum](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2716-prime-subtraction-operation](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
