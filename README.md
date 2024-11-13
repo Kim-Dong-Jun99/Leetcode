@@ -59,6 +59,7 @@ leetcode 문제풀이 repository 입니다.
 | [2554-minimum-total-distance-traveled](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -103,6 +104,7 @@ leetcode 문제풀이 repository 입니다.
 | [0189-rotate-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0392-is-subsequence) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
 |  |
@@ -136,6 +138,7 @@ leetcode 문제풀이 repository 입니다.
 | [2554-minimum-total-distance-traveled](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Heap (Priority Queue)
 |  |
@@ -229,6 +232,7 @@ leetcode 문제풀이 repository 입니다.
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Divide and Conquer
