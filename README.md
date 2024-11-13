@@ -44,6 +44,7 @@ leetcode 문제풀이 repository 입니다.
 | [0221-maximal-square](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0274-h-index) |
+| [0287-find-the-duplicate-number](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0322-coin-change) |
@@ -102,6 +103,7 @@ leetcode 문제풀이 repository 입니다.
 | [0151-reverse-words-in-a-string](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0392-is-subsequence) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -229,6 +231,7 @@ leetcode 문제풀이 repository 입니다.
 | [0074-search-a-2d-matrix](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -286,6 +289,7 @@ leetcode 문제풀이 repository 입니다.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Kim-Dong-Jun99/Leetcode/tree/master/3394-minimum-array-end) |
